@@ -1,0 +1,6 @@
+# Minimal dependencies to run List 1 (PyTorch & Training Fundamentals)
+torch>=2.2.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+tqdm>=4.66.0
+ipykernel>=6.29.0

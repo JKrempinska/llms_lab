@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Model weights / checkpoints (keep repo lightweight)
+*.pt
+*.pth
+*.bin
+*.safetensors
+!checkpoints/.gitkeep
+
+# Submissions zips
+*_submission.zip
